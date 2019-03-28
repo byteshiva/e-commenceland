@@ -1,0 +1,28 @@
+.nav {
+  background: #9A2A3C;
+  padding: 15px;
+  border-radius: 0;
+  /* position: fixed; */
+  z-index: 100;
+  min-width: 100%;
+}
+
+.searchbar {
+  float: left;
+}
+
+.links {
+  float: right;
+}
+
+.links a {
+  color: white;
+  margin: 0 20px;
+}
+
+.links i {
+  cursor: pointer;
+  color: white;
+  font-size: 22px;
+  margin: 0 10px;
+}
