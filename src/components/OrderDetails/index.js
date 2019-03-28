@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-// import PropTypes from "prop-types";
+import PropTypes from "prop-types";
 import { connect } from "react-redux";
 import { fetchOrders } from "../../actions/orderActions";
 import { Item, Label, Icon, Button, Divider } from "semantic-ui-react";
@@ -54,7 +54,7 @@ class OrderDetails extends Component {
 }
 
 OrderDetails.propTypes = {
-  // createPost: PropTypes.func.isRequired
+  fetchOrders: PropTypes.func.isRequired
 };
 
 const mapStateToProps = state => ({

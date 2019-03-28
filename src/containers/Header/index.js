@@ -6,9 +6,8 @@ const HeaderMenu = () => (
   <Menu fixed="top" inverted color="violet">
     <Container>
       <Menu.Item header>
-        {/* <Image size="mini" src={logo} style={{ marginRight: "1.5em" }} /> */}
         <Icon name="bullhorn" />
-        <Link to="/" >e-Commerce Land</Link>
+        <Link to="/">e-Commerce Land</Link>
       </Menu.Item>
       <Menu.Item>
         {" "}

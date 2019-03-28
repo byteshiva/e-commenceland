@@ -1,9 +1,9 @@
 import React, { Component } from "react";
 import PropTypes from "prop-types";
 import { connect } from "react-redux";
+import { Loader } from "semantic-ui-react";
 import ProfileData from "./index";
 import { fetchProfile } from "../../actions/orderActions";
-import { Loader } from "semantic-ui-react";
 
 class OrderDetails extends Component {
   componentWillMount() {

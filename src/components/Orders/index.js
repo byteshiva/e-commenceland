@@ -1,10 +1,10 @@
 import React, { Component } from "react";
 import PropTypes from "prop-types";
 import { connect } from "react-redux";
-import { fetchOrders } from "../../actions/orderActions";
+import { Image, Table, Label, Divider } from "semantic-ui-react";
 import { FormattedDate } from "react-intl";
 import { Link } from "react-router-dom";
-import { Image, Table, Label, Divider } from "semantic-ui-react";
+import { fetchOrders } from "../../actions/orderActions";
 
 class Orders extends Component {
   componentWillMount() {
@@ -44,7 +44,7 @@ class Orders extends Component {
         <span>
           <b> All Orders</b>
         </span>
-        <Divider fitted/>
+        <Divider fitted />
 
         <Table
           celled
@@ -73,8 +73,6 @@ class Orders extends Component {
 
 Orders.propTypes = {
   fetchOrders: PropTypes.func.isRequired,
-  // posts: PropTypes.array.isRequired,
-  // posts: PropTypes.object,
   orders: PropTypes.array.isRequired
 };
 
