@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/e-commenceland/precache-manifest.31e61080df9d0ea40db61b73229a599c.js"
+  "/e-commenceland/precache-manifest.2a9648c41e65987c90952da57ec85fe8.js"
 );
 
 workbox.clientsClaim();
