@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "c3976ef76826fb4d23cf",
+    "revision": "8f6662084ef5da531bf1",
     "url": "/e-commenceland/static/css/main.daea0434.chunk.css"
   },
   {
-    "revision": "c3976ef76826fb4d23cf",
-    "url": "/e-commenceland/static/js/main.682635d1.chunk.js"
+    "revision": "8f6662084ef5da531bf1",
+    "url": "/e-commenceland/static/js/main.2f68d811.chunk.js"
   },
   {
     "revision": "9b4d8977858ec34aaf49",
@@ -28,16 +28,16 @@ self.__precacheManifest = [
     "url": "/e-commenceland/static/media/outline-icons.ef60a4f6.woff"
   },
   {
-    "revision": "ad97afd3337e8cda302d10ff5a4026b8",
-    "url": "/e-commenceland/static/media/outline-icons.ad97afd3.ttf"
+    "revision": "9c74e172f87984c48ddf5c8108cabe67",
+    "url": "/e-commenceland/static/media/flags.9c74e172.png"
   },
   {
     "revision": "701ae6abd4719e9c2ada3535a497b341",
     "url": "/e-commenceland/static/media/outline-icons.701ae6ab.eot"
   },
   {
-    "revision": "9c74e172f87984c48ddf5c8108cabe67",
-    "url": "/e-commenceland/static/media/flags.9c74e172.png"
+    "revision": "ad97afd3337e8cda302d10ff5a4026b8",
+    "url": "/e-commenceland/static/media/outline-icons.ad97afd3.ttf"
   },
   {
     "revision": "0ab54153eeeca0ce03978cc463b257f7",
@@ -64,12 +64,12 @@ self.__precacheManifest = [
     "url": "/e-commenceland/static/media/icons.b87b9ba5.ttf"
   },
   {
-    "revision": "c5ebe0b32dc1b5cc449a76c4204d13bb",
-    "url": "/e-commenceland/static/media/brand-icons.c5ebe0b3.ttf"
-  },
-  {
     "revision": "13db00b7a34fee4d819ab7f9838cc428",
     "url": "/e-commenceland/static/media/brand-icons.13db00b7.eot"
+  },
+  {
+    "revision": "c5ebe0b32dc1b5cc449a76c4204d13bb",
+    "url": "/e-commenceland/static/media/brand-icons.c5ebe0b3.ttf"
   },
   {
     "revision": "82f60bd0b94a1ed68b1e6e309ce2e8c3",
@@ -84,7 +84,7 @@ self.__precacheManifest = [
     "url": "/e-commenceland/static/media/brand-icons.a1a749e8.svg"
   },
   {
-    "revision": "f31bae9f45933a5296368dc81a91b4d7",
+    "revision": "23d8691d8892654b43c5d7ff9408d107",
     "url": "/e-commenceland/index.html"
   }
 ];
