@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "eefe4a6fba00d7e10d4e",
+    "revision": "608210374a44e26dc14c",
     "url": "/e-commenceland/static/css/main.daea0434.chunk.css"
   },
   {
-    "revision": "eefe4a6fba00d7e10d4e",
-    "url": "/e-commenceland/static/js/main.af1d0bb4.chunk.js"
+    "revision": "608210374a44e26dc14c",
+    "url": "/e-commenceland/static/js/main.d4960c56.chunk.js"
   },
   {
     "revision": "9b4d8977858ec34aaf49",
@@ -20,24 +20,24 @@ self.__precacheManifest = [
     "url": "/e-commenceland/static/js/2.029ce796.chunk.js"
   },
   {
-    "revision": "cd6c777f1945164224dee082abaea03a",
-    "url": "/e-commenceland/static/media/outline-icons.cd6c777f.woff2"
-  },
-  {
     "revision": "ef60a4f6c25ef7f39f2d25a748dbecfe",
     "url": "/e-commenceland/static/media/outline-icons.ef60a4f6.woff"
+  },
+  {
+    "revision": "cd6c777f1945164224dee082abaea03a",
+    "url": "/e-commenceland/static/media/outline-icons.cd6c777f.woff2"
   },
   {
     "revision": "9c74e172f87984c48ddf5c8108cabe67",
     "url": "/e-commenceland/static/media/flags.9c74e172.png"
   },
   {
-    "revision": "ad97afd3337e8cda302d10ff5a4026b8",
-    "url": "/e-commenceland/static/media/outline-icons.ad97afd3.ttf"
-  },
-  {
     "revision": "701ae6abd4719e9c2ada3535a497b341",
     "url": "/e-commenceland/static/media/outline-icons.701ae6ab.eot"
+  },
+  {
+    "revision": "ad97afd3337e8cda302d10ff5a4026b8",
+    "url": "/e-commenceland/static/media/outline-icons.ad97afd3.ttf"
   },
   {
     "revision": "0ab54153eeeca0ce03978cc463b257f7",
@@ -84,7 +84,7 @@ self.__precacheManifest = [
     "url": "/e-commenceland/static/media/brand-icons.a1a749e8.svg"
   },
   {
-    "revision": "5e9c3affa89246c1d07e88076f8189ec",
+    "revision": "b0be1b2424ebe165378a76fb922ce44d",
     "url": "/e-commenceland/index.html"
   }
 ];
