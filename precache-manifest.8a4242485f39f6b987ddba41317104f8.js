@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "d2cbbfeab4994c82210f",
+    "revision": "608210374a44e26dc14c",
     "url": "/e-commenceland/static/css/main.daea0434.chunk.css"
   },
   {
-    "revision": "d2cbbfeab4994c82210f",
-    "url": "/e-commenceland/static/js/main.621bb627.chunk.js"
+    "revision": "608210374a44e26dc14c",
+    "url": "/e-commenceland/static/js/main.d4960c56.chunk.js"
   },
   {
     "revision": "9b4d8977858ec34aaf49",
     "url": "/e-commenceland/static/js/runtime~main.2633d986.js"
   },
   {
-    "revision": "91382d587cde31d919d3",
+    "revision": "38bd15d02d6c64423fdb",
     "url": "/e-commenceland/static/css/2.25bf3e29.chunk.css"
   },
   {
-    "revision": "91382d587cde31d919d3",
-    "url": "/e-commenceland/static/js/2.3f620571.chunk.js"
+    "revision": "38bd15d02d6c64423fdb",
+    "url": "/e-commenceland/static/js/2.029ce796.chunk.js"
   },
   {
     "revision": "cd6c777f1945164224dee082abaea03a",
@@ -60,12 +60,12 @@ self.__precacheManifest = [
     "url": "/e-commenceland/static/media/icons.8e3c7f55.eot"
   },
   {
-    "revision": "b87b9ba532ace76ae9f6edfe9f72ded2",
-    "url": "/e-commenceland/static/media/icons.b87b9ba5.ttf"
-  },
-  {
     "revision": "13db00b7a34fee4d819ab7f9838cc428",
     "url": "/e-commenceland/static/media/brand-icons.13db00b7.eot"
+  },
+  {
+    "revision": "b87b9ba532ace76ae9f6edfe9f72ded2",
+    "url": "/e-commenceland/static/media/icons.b87b9ba5.ttf"
   },
   {
     "revision": "c5ebe0b32dc1b5cc449a76c4204d13bb",
@@ -84,7 +84,7 @@ self.__precacheManifest = [
     "url": "/e-commenceland/static/media/brand-icons.a1a749e8.svg"
   },
   {
-    "revision": "58ee56a41a01edecc13c756a417b0b35",
+    "revision": "b0be1b2424ebe165378a76fb922ce44d",
     "url": "/e-commenceland/index.html"
   }
 ];
