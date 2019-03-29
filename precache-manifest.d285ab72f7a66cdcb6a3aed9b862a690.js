@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "48dd917a60b33496c7e7",
+    "revision": "2d460115c7734eb39e92",
     "url": "/e-commenceland/static/css/main.daea0434.chunk.css"
   },
   {
-    "revision": "48dd917a60b33496c7e7",
-    "url": "/e-commenceland/static/js/main.a8a86370.chunk.js"
+    "revision": "2d460115c7734eb39e92",
+    "url": "/e-commenceland/static/js/main.c772c339.chunk.js"
   },
   {
     "revision": "9b4d8977858ec34aaf49",
@@ -84,7 +84,7 @@ self.__precacheManifest = [
     "url": "/e-commenceland/static/media/brand-icons.a1a749e8.svg"
   },
   {
-    "revision": "3ec05943304426f99871e19d37ec7e64",
+    "revision": "9858e0204bd99e41bfeeb314772ba931",
     "url": "/e-commenceland/index.html"
   }
 ];
