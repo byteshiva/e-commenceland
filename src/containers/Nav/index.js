@@ -6,11 +6,12 @@ import Orders from "../../components/Orders/";
 import Profile from "../../components/Profile/Profile";
 import OrderDetails from "../../components/OrderDetails/";
 import HeaderMenu from "../Header";
+import GB_BASE_URL from '../../constants/base/';
 
 function PreProcessProductDetails(match) {
   return (
     <div>
-      <Label as="a" color="red" ribbon icon="closed captioning">
+      <Label as="a" color="red" ribbon>
         Order Details
       </Label>
       <span> Your Order Summary</span>
@@ -25,10 +26,10 @@ const FixedMenuLayout = () => (
     <Container>
       <HeaderMenu />
       <Container text style={{ marginTop: "7em" }}>
-        <Route exact path="/" component={Profile} />
-        <Route exact path="/profile" component={Profile} />
-        <Route exact path="/orders" component={Orders} />
-        <Route path="/orders/:id" component={PreProcessProductDetails} />
+        <Route exact path={`${GB_BASE_URL}`} component={Profile} />
+        <Route exact path={`${GB_BASE_URL}/profile`} component={Profile} />
+        <Route exact path={`${GB_BASE_URL}/orders`} component={Orders} />
+        <Route path={`${GB_BASE_URL}/orders/:id`} component={PreProcessProductDetails} />
       </Container>
     </Container>
   </Router>

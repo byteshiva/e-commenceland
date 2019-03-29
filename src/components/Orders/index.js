@@ -5,6 +5,7 @@ import { Image, Table, Label, Divider } from "semantic-ui-react";
 import { FormattedDate } from "react-intl";
 import { Link } from "react-router-dom";
 import { fetchOrders } from "../../actions/orderActions";
+import GB_BASE_URL from '../../constants/base/';
 
 class Orders extends Component {
   componentWillMount() {
@@ -22,7 +23,7 @@ class Orders extends Component {
           />
         </Table.Cell>
         <Table.Cell>
-          <Link to={`/orders/${order.id}`}>{order.product.name}</Link>
+          <Link to={`${GB_BASE_URL}/orders/${order.id}`}>{order.product.name}</Link>
         </Table.Cell>
         <Table.Cell> {order.price}</Table.Cell>
         <Table.Cell>{order.product.orderStatus}</Table.Cell>
@@ -38,7 +39,7 @@ class Orders extends Component {
     ));
     return (
       <div>
-        <Label as="a" color="red" ribbon icon="closed captioning">
+        <Label as="a" color="red" ribbon>
           Your Orders
         </Label>
         <span>
@@ -52,7 +53,6 @@ class Orders extends Component {
           color="green"
           striped
           size="large"
-          unstackable
           key="green"
         >
           <Table.Header color="brown">

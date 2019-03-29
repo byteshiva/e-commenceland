@@ -15,6 +15,7 @@ export default function(state = initialState, action) {
       };
     case FETCH_PROFILE:
       console.log("action",action);
+      console.log(process.env);
       return {
         ...state,
         profile: action.payload

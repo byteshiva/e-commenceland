@@ -10,10 +10,6 @@ class OrderDetails extends Component {
     this.props.fetchProfile();
   }
 
-  onChange(e) {
-    this.setState({ [e.target.name]: e.target.value });
-  }
-
   render() {
     const nameObj = this.props.profile.name;
     const fullName = nameObj ? Object.values(nameObj).join(" ") : "";
