@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "43e8121bb219ce8f1356",
+    "revision": "48dd917a60b33496c7e7",
     "url": "/e-commenceland/static/css/main.daea0434.chunk.css"
   },
   {
-    "revision": "43e8121bb219ce8f1356",
-    "url": "/e-commenceland/static/js/main.439e9209.chunk.js"
+    "revision": "48dd917a60b33496c7e7",
+    "url": "/e-commenceland/static/js/main.a8a86370.chunk.js"
   },
   {
     "revision": "9b4d8977858ec34aaf49",
@@ -60,12 +60,12 @@ self.__precacheManifest = [
     "url": "/e-commenceland/static/media/icons.8e3c7f55.eot"
   },
   {
-    "revision": "13db00b7a34fee4d819ab7f9838cc428",
-    "url": "/e-commenceland/static/media/brand-icons.13db00b7.eot"
-  },
-  {
     "revision": "b87b9ba532ace76ae9f6edfe9f72ded2",
     "url": "/e-commenceland/static/media/icons.b87b9ba5.ttf"
+  },
+  {
+    "revision": "13db00b7a34fee4d819ab7f9838cc428",
+    "url": "/e-commenceland/static/media/brand-icons.13db00b7.eot"
   },
   {
     "revision": "c5ebe0b32dc1b5cc449a76c4204d13bb",
@@ -84,7 +84,7 @@ self.__precacheManifest = [
     "url": "/e-commenceland/static/media/brand-icons.a1a749e8.svg"
   },
   {
-    "revision": "e2bc5d06aace0d48a88c75c211619431",
+    "revision": "3ec05943304426f99871e19d37ec7e64",
     "url": "/e-commenceland/index.html"
   }
 ];
