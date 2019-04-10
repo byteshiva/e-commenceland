@@ -2,7 +2,7 @@
   "name": "profile-display",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://byteshiva.github.io/e-commenceland/",
+  "homepage": "https://byteshiva.github.io/",
   "dependencies": {
     "history": "^4.9.0",
     "react": "^16.8.5",
