@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://byteshiva.github.io/e-commenceland/",
   "dependencies": {
-    "history": "^4.9.0",
+    "history": "^5.0.0",
     "react": "^16.8.5",
     "react-dom": "^16.8.5",
     "react-intl": "^2.8.0",
